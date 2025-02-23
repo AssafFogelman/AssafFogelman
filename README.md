@@ -21,13 +21,6 @@ Currently, I'm building an Expo app for Enpitech software house.
 - Databases: MongoDB, MySQL, PostgreSQL
 - ORM: Drizzle, Mongoose
 
-### 🌟 Professional Experience
-
-- 2025-present: Developer at Enpitech software house
-- 2023-2025: Developer at Elobby software house
-- 2019-2024: Pain clinic director
-- 2017-2021: English, Mathematics and homeroom teacher in Youth villages and highschools
-- 2005-2017: Advocate for youth in the court of labor 
 
 ### 🗣 Languages
 
@@ -37,7 +30,6 @@ Currently, I'm building an Expo app for Enpitech software house.
 ### 🌱 Interests
 
 I'm passionate about technology, about helping companies thrive through exceptional and proffesional apps. 
-My diverse background in teaching, management, and law work complements my technical skills as a developer.
 It's all about working hard, effective communication, soft skills that contribute to a collaborative environment, and continuous learning. 
 
 
