@@ -10,9 +10,6 @@ I'm an experienced Full-stack web developer from Israel, currently working at a 
 - 💼 [GitHub](https://github.com/AssafFogelman)
 - 🌍 [Enpitech](https://enpitech.dev/)
 
-### 💻 Current Project
-
-Currently, I'm building an Expo app for Enpitech software house.
 
 ### 🛠 Skills
 
